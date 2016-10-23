@@ -6,4 +6,5 @@
 -'=' button <br>
 -'+' button<br>
 
-![output](https://cloud.githubusercontent.com/assets/10386036/19627527/cca09998-9916-11e6-829a-7c19f8ee72fb.png)
+![output](https://cloud.githubusercontent.com/assets/10386036/19627543/29083dc6-9917-11e6-9582-58fedfc0874b.png)
+
